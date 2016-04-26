@@ -1,0 +1,12 @@
+C:\Users\Shakers\AppData\Local\Temporary Projects\xmltocsv\bin\Debug\xmltocsv.exe.config
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\bin\Debug\xmltocsv.exe.config
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\bin\Debug\xmltocsv.exe
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\bin\Debug\xmltocsv.pdb
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\bin\Debug\xmltocsv.xml
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\obj\Debug\xmltocsv.vbprojResolveAssemblyReference.cache
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\obj\Debug\xmltocsv.xmltocsv.resources
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\obj\Debug\xmltocsv.Resources.resources
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\obj\Debug\xmltocsv.vbproj.GenerateResource.Cache
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\obj\Debug\xmltocsv.exe
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\obj\Debug\xmltocsv.xml
+C:\Users\Shakers\Documents\Visual Studio 2015\Projects\xmltocsv\xmltocsv\obj\Debug\xmltocsv.pdb
